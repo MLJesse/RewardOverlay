@@ -17,3 +17,6 @@ Used to track rewards for a Twitch channel and show as an overlay.
 * There is an awkard outline around the text without a border, to be honest I think the border looks better and solve this issue, so I added it.
 * Only supports two channel rewards right now, easy to expand later.
 * Code is sloppy due to non-professional needs.
+
+# Whats Next
+* If you want more functionality or something adjusted/changed, just reach out.
