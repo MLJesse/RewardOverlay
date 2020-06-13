@@ -15,7 +15,7 @@ Used to track rewards for a Twitch channel and show as an overlay.
   *You can view the code here in github, or you can edit it on your favorite text editor to ensure it's safe.
 
 # Known Issues
-* There is an awkard outline around the text without a border, to be honest I think the border looks better and solve this issue, so I added it.
+* There is an awkard outline around the text without a border, to be honest I think the border looks better and solves this issue, so I added it.
 * Only supports two channel rewards right now, easy to expand later.
 * Code is sloppy due to non-professional needs.
 * The overlay is not click through, but you can adjust the position in the code
