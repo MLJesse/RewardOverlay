@@ -12,3 +12,8 @@ Used to track rewards for a Twitch channel and show as an overlay.
   *You don't technically need to run the exe, but it is used in the code.
 * Once Python is installed and the install.bat has finished, just run the python script.
   *You can view the code here in github, or you can edit it on your favorite text editor to ensure it's safe.
+
+# Known Issues
+* There is an awkard outline around the text without a border, to be honest I think the border looks better and solve this issue, so I added it.
+* Only supports two channel rewards right now, easy to expand later.
+* Code is sloppy due to non-professional needs.
